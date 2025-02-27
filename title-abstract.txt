@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Electric Vehicle Charging Station - Optimizing Placement Tool via Infrastructure Modeling (EVCS-OPTIM)
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The transition to electric vehicles (EVs) is critical in reducing greenhouse gas emissions and promoting sustainable transportation. However, the expansion of EV infrastructure, particularly charging stations, must be strategic to support increased EV adoption effectively. This project, EVCS-OPTIM (Electric Vehicle Charging Station - Optimizing Placement Tool via Infrastructure Modeling), utilizes data-driven methodologies, including time-series analysis, graph theory, geospatial analysis, and optimization modeling, to determine the most effective locations for new EV charging stations within the SDG&E service territory. By integrating historical EV adoption data, transit patterns, and power grid constraints, this project aims to provide an interactive tool that facilitates strategic decision-making for EV infrastructure deployment.
